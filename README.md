@@ -10,4 +10,4 @@ Members:
 * Castedades Rochelle
 * Luma Allysa Joy
 * Godalle Aira
-* Gerero Angelo
+  
